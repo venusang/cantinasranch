@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: gospel-wp/functions.php:323
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:321
+msgid "<span class=\"comment-author\">%s</span>"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/option-tree/front-end/options.php:31
+msgid "Activate Layout"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:348
+msgid "Add New Slider Item"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:427
+msgid "Background Image (will be disabled on responsive size)"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/taxonomy-event-category.php:160
+#: gospel-wp/single-event.php:155
+#: gospel-wp/template-event.php:176
+#: gospel-wp/taxonomy-event-tag.php:160
+#: gospel-wp/archive-event.php:157
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:348
+msgid "Edit Slider Item"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/option-tree/front-end/settings.php:230
+msgid "Import Data"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/option-tree/front-end/settings.php:247
+msgid "Import Layouts"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/option-tree/front-end/settings.php:213
+msgid "Import XML"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/option-tree/front-end/options.php:24
+msgid "New Layout"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:348
+msgid "New Slider Item"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/sitemap.php:57
+msgid "No categories"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:348
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:348
+msgid "Nothing found in Trash"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/option-tree/classes/class.admin.php:1
+msgid "Options"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/option-tree/front-end/options.php:55
+msgid "Reload XML"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/option-tree/front-end/options.php:112
+msgid "Reset Options"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/option-tree/front-end/options.php:18
+#: gospel-wp/option-tree/front-end/options.php:113
+msgid "Save All Changes"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:348
+msgid "Search Slider"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/option-tree/classes/class.admin.php:1
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/option-tree/classes/class.admin.php:1
+msgid "Somebody"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/option-tree/classes/class.admin.php:1
+msgid "Theme Options"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:348
+msgid "View Slider Item"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/option-tree/classes/class.admin.php:1
+msgid "Warning: %s is currently editing the %s."
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/functions.php:328
+msgid "Your comment is awaiting moderation."
+msgstr ""
+

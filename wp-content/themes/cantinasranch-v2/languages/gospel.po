@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: gospel-wp/sitemap.php:89
+msgid "All Blog Posts"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/sitemap.php:105
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/sitemap.php:53
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/sitemap.php:47
+msgid "Comment Feed"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:29
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Contact Info"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Contact Map"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:60
+msgid "Email (will not be published)"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/functions.php:425
+msgid "Enter a URL here for this slider image to link to.  Leaving this blank will mean the slider image will not link at all."
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:427
+msgid "Enter url of image in the http:// format (recommended size 1200px X 700px)"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/sitemap.php:42
+msgid "Feeds"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Footer One"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Footer Three"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Footer Two"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/sitemap.php:46
+msgid "Full content"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Home Five"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Home Four"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Home One"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Home Six"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Home Three"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Home Two"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:53
+msgid "Log out "
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:53
+msgid "Logged in as "
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/sitemap.php:46
+msgid "Main RSS"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/header.php:184
+msgid "Map &amp; Directions"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:57
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/404.php:41
+msgid "No worries you probably mistyped something, looked for something that does not exist anymore or just downright broke stuffs - just carry on with the menu at the top!"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/includes/theme-options.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/404.php:37
+msgid "Page Not Found"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/sitemap.php:36
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/sitemap.php:95
+msgid "Permanent Link to"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:427
+msgid "Primary Navigation"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/searchform.php:7
+msgid "Search the site"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:427
+msgid "Secondary Navigation"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/search.php:47
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/taxonomy-event-category.php:189
+#: gospel-wp/taxonomy-event-tag.php:189
+#: gospel-wp/archive-event.php:186
+msgid "There are no events to display. Try using the search."
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/single-leftsidebar.php:152
+#: gospel-wp/page-rightsidebar.php:42
+#: gospel-wp/single-fullwidth.php:157
+#: gospel-wp/page-fullwidth.php:47
+#: gospel-wp/index.php:42
+#: gospel-wp/page.php:36
+#: gospel-wp/single-rightsidebar.php:152
+#: gospel-wp/page-leftsidebar.php:42
+#: gospel-wp/single.php:152
+msgid "There are no posts to display. Try using the search."
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:8
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: gospel-wp/functions.php:348
+msgid "URL of image / video"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:63
+msgid "Website "
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/404.php:39
+msgid "You earned the 404 page award!"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:46
+msgid "You must be"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:72
+msgid "Your Comment"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:18
+msgid "comments"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:46
+msgid "logged in"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/taxonomy-event-category.php:233
+#: gospel-wp/search.php:86
+#: gospel-wp/index.php:80
+#: gospel-wp/taxonomy-event-venue.php:129
+#: gospel-wp/template-event.php:242
+#: gospel-wp/taxonomy-event-tag.php:232
+#: gospel-wp/archive-event.php:228
+msgid "newer"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/taxonomy-event-category.php:222
+#: gospel-wp/search.php:75
+#: gospel-wp/index.php:69
+#: gospel-wp/taxonomy-event-venue.php:118
+#: gospel-wp/template-event.php:231
+#: gospel-wp/taxonomy-event-tag.php:221
+#: gospel-wp/archive-event.php:217
+msgid "older"
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/comments.php:46
+msgid "to post a comment."
+msgstr ""
+

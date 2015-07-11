@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: gospel-wp/taxonomy-event-category.php:122
+#: gospel-wp/single-event.php:123
+#: gospel-wp/template-event.php:138
+#: gospel-wp/taxonomy-event-tag.php:122
+#: gospel-wp/archive-event.php:119
+msgid "From %1$s until %2$s. Next date is %3$s"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/taxonomy-event-category.php:126
+#: gospel-wp/single-event.php:127
+#: gospel-wp/template-event.php:142
+#: gospel-wp/taxonomy-event-tag.php:126
+#: gospel-wp/archive-event.php:123
+msgid "This event finished on %s"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/taxonomy-event-category.php:131
+#: gospel-wp/single-event.php:132
+#: gospel-wp/template-event.php:147
+#: gospel-wp/taxonomy-event-tag.php:131
+#: gospel-wp/archive-event.php:128
+msgid "This event is on %s"
+msgstr ""
+
+#. Text in function
+#: gospel-wp/taxonomy-event-category.php:142
+#: gospel-wp/single-event.php:170
+#: gospel-wp/template-event.php:158
+#: gospel-wp/taxonomy-event-tag.php:142
+#: gospel-wp/archive-event.php:139
+msgid "This event was posted in %1$s by <a href=\"%5$s\">%4$s</a>."
+msgstr ""
+
+#. Text in echo
+#: gospel-wp/taxonomy-event-category.php:137
+#: gospel-wp/single-event.php:177
+#: gospel-wp/template-event.php:153
+#: gospel-wp/taxonomy-event-tag.php:137
+#: gospel-wp/template-home.php:234
+#: gospel-wp/archive-event.php:134
+msgid "at"
+msgstr ""
+
