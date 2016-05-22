@@ -21,11 +21,11 @@ define('DB_NAME', 'cantinas_ranch');
 
 /** MySQL database username */
 // define('DB_USER', 'cantinas_admin');
-define('DB_USER', 'missdemilo');
+define('DB_USER', 'user_name_goes_here');
 
 /** MySQL database password */
 // define('DB_PASSWORD', 'cantina$2012');
-define('DB_PASSWORD', 'samboang24!!');
+define('DB_PASSWORD', 'db_password_goes_here');
 
 
 /** MySQL hostname */
